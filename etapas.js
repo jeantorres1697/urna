@@ -8,7 +8,7 @@ let etapas = [
                     name: 'Michael Jackson',
                     partido: 'Rusber',
                     fotos: [
-                        {url:'/michael.png', legenda: 'Vereador'}
+                        {url:'.images/michael.png', legenda: 'Vereador'}
                     ]
                 },
 
@@ -17,7 +17,7 @@ let etapas = [
                     name: 'Saitama',
                     partido: 'Super Herois',
                     fotos: [
-                        {url: '/saitama.png', legenda: 'Vereador'}
+                        {url: '.images/saitama.png', legenda: 'Vereador'}
                     ]
                 },
 
@@ -26,7 +26,7 @@ let etapas = [
                     name: 'Goku',
                     partido: 'Sayajins',
                     fotos: [
-                        {url: '/goku.png', legenda: 'Vereador'}
+                        {url: '.images/goku.png', legenda: 'Vereador'}
                     ]
                 },
             ]
@@ -42,8 +42,8 @@ let etapas = [
                     partido: 'Siri Cascudo',
                     vice: 'Patrick Estrela',
                     fotos: [
-                        {url:'/siriguejo.png', legenda: 'Prefeito'},
-                        {url: '/patrick.png', legenda: 'Vice-Prefeito', small: true}
+                        {url:'.images/siriguejo.png', legenda: 'Prefeito'},
+                        {url: '.images/patrick.png', legenda: 'Vice-Prefeito', small: true}
                     ]
                 },
                 {
@@ -52,8 +52,8 @@ let etapas = [
                     partido: 'PVM - Partido Vira Monstro',
                     vice: 'Bitelo',
                     fotos: [
-                        {url:'Leostronda.png', legenda: 'Prefeito'},
-                        {url:'bitelo.png', legenda: 'Vice-Prefeito', small: true}
+                        {url:'.images/Leostronda.png', legenda: 'Prefeito'},
+                        {url:'.images/bitelo.png', legenda: 'Vice-Prefeito', small: true}
                     ]
                 },
             ]
