@@ -9,7 +9,8 @@ let etapas = [
                     partido: 'Rusber',
                     fotos: [
                         {url:'jeantorres1697/urna/images/michael.png', legenda: 'Vereador'}
-                    ]
+                    ], 
+                    votos: 0
                 },
 
                 {
@@ -18,7 +19,8 @@ let etapas = [
                     partido: 'Super Herois',
                     fotos: [
                         {url: 'jeantorres1697/urna/images/saitama.png', legenda: 'Vereador'}
-                    ]
+                     ], 
+                    votos: 0
                 },
 
                 {
@@ -27,7 +29,8 @@ let etapas = [
                     partido: 'Sayajins',
                     fotos: [
                         {url: 'jeantorres1697/urna/images/goku.png', legenda: 'Vereador'}
-                    ]
+                    ], 
+                    votos: 0
                 },
             ]
     },
@@ -44,7 +47,8 @@ let etapas = [
                     fotos: [
                         {url:'jeantorres1697/urna/images/siriguejo.png', legenda: 'Prefeito'},
                         {url: 'jeantorres1697/urna/images/patrick.png', legenda: 'Vice-Prefeito', small: true}
-                    ]
+                       ], 
+                    votos: 0
                 },
                 {
                     numero: '20',
@@ -54,7 +58,8 @@ let etapas = [
                     fotos: [
                         {url:'jeantorres1697/urna/images/Leostronda.png', legenda: 'Prefeito'},
                         {url:'jeantorres1697/urna/images/bitelo.png', legenda: 'Vice-Prefeito', small: true}
-                    ]
+                         ], 
+                    votos: 0
                 },
             ]
 
