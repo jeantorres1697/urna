@@ -54,7 +54,7 @@ function atualizaInterface () {
 
         let fotosHtml = '';
         for(let i in candidato.fotos) {
-            fotosHtml += `<div class="d-1-right"> <div class="d-1-image"> <img src="/images/${candidato.fotos[i].url}" alt=""/> ${candidato.fotos[i].legenda} </div>`;
+            fotosHtml += `<div class="d-1-right"> <div class="d-1-image"> <img src="/urna/images/${candidato.fotos[i].url}" alt=""/> ${candidato.fotos[i].legenda} </div>`;
         }
 
         lateral.innerHTML = fotosHtml;
