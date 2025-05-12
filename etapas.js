@@ -8,7 +8,7 @@ let etapas = [
                     name: 'Michael Jackson',
                     partido: 'Rusber',
                     fotos: [
-                        {url:'jeantorres1697/urna/images/michael.png', legenda: 'Vereador'}
+                        {url:'/urna/images/michael.png', legenda: 'Vereador'}
                     ], 
                     votos: 0
                 },
@@ -18,7 +18,7 @@ let etapas = [
                     name: 'Saitama',
                     partido: 'Super Herois',
                     fotos: [
-                        {url: 'jeantorres1697/urna/images/saitama.png', legenda: 'Vereador'}
+                        {url: '/urna/images/saitama.png', legenda: 'Vereador'}
                      ], 
                     votos: 0
                 },
@@ -28,7 +28,7 @@ let etapas = [
                     name: 'Goku',
                     partido: 'Sayajins',
                     fotos: [
-                        {url: 'jeantorres1697/urna/images/goku.png', legenda: 'Vereador'}
+                        {url: '/urna/images/goku.png', legenda: 'Vereador'}
                     ], 
                     votos: 0
                 },
@@ -45,8 +45,8 @@ let etapas = [
                     partido: 'Siri Cascudo',
                     vice: 'Patrick Estrela',
                     fotos: [
-                        {url:'jeantorres1697/urna/images/siriguejo.png', legenda: 'Prefeito'},
-                        {url: 'jeantorres1697/urna/images/patrick.png', legenda: 'Vice-Prefeito', small: true}
+                        {url:'/urna/images/siriguejo.png', legenda: 'Prefeito'},
+                        {url: '/urna/images/patrick.png', legenda: 'Vice-Prefeito', small: true}
                        ], 
                     votos: 0
                 },
@@ -56,8 +56,8 @@ let etapas = [
                     partido: 'PVM - Partido Vira Monstro',
                     vice: 'Bitelo',
                     fotos: [
-                        {url:'jeantorres1697/urna/images/Leostronda.png', legenda: 'Prefeito'},
-                        {url:'jeantorres1697/urna/images/bitelo.png', legenda: 'Vice-Prefeito', small: true}
+                        {url:'/urna/images/Leostronda.png', legenda: 'Prefeito'},
+                        {url:'/urna/images/bitelo.png', legenda: 'Vice-Prefeito', small: true}
                          ], 
                     votos: 0
                 },
