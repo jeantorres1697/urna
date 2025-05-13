@@ -28,7 +28,7 @@ let etapas = [
                     name: 'Goku',
                     partido: 'Sayajins',
                     fotos: [
-                        {url: 'goku.png', legenda: 'Vereador'}
+                        {url: 'Goku.png', legenda: 'Vereador'}
                     ], 
                     votos: 0
                 },
