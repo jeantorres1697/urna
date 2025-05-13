@@ -14,7 +14,7 @@ let etapas = [
                 },
 
                 {
-                    numero: '24680',
+                    numero: '01234',
                     name: 'Saitama',
                     partido: 'Super Herois',
                     fotos: [
@@ -45,7 +45,7 @@ let etapas = [
                     partido: 'Siri Cascudo',
                     vice: 'Patrick Estrela',
                     fotos: [
-                        {url:'siriguejo.png', legenda: 'Prefeito'},
+                        {url: 'siriguejo.png', legenda: 'Prefeito'},
                         {url: 'patrick.png', legenda: 'Vice-Prefeito', small: true}
                        ], 
                     votos: 0
